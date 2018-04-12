@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=QR Codes
+Description=Show the boot progress as QR-Codes.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/qr-codes
+ScriptFile=/usr/share/plymouth/themes/qr-codes/qr-codes.script
