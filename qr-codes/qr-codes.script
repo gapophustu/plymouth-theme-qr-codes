@@ -6,8 +6,8 @@ max_size = 0.8; # Maximum ammount of height and width that should be used
 
 show_duration = 2; # Minimum of seconds each code is shown
 
-Window.SetBackgroundTopColor (0.2, 0.2, 0.2);
-Window.SetBackgroundBottomColor (0.2, 0.2, 0.2);
+Window.SetBackgroundTopColor (0.3, 0.3, 0.3);
+Window.SetBackgroundBottomColor (0.3, 0.3, 0.3);
 #----------------------------------------- End Configuration --------------------------------
 
 res = 1;
